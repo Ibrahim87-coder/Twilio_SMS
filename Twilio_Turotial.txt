@@ -1,0 +1,32 @@
+
+...........................................................
+Tutorial
+...........................................................
+
+
+Quick start with this link 
+https://www.twilio.com/docs/sms/quickstart/csharp-dotnet-core
+
+...........................................................
+
+Final Step:
+
+https://www.twilio.com/docs/usage/secure-credentials
+
+Write in CMD:
+...........................................................
+set TWILIO_ACCOUNT_SID=ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+set TWILIO_AUTH_TOKEN=your_auth_token
+...........................................................
+
+Get TWILIO_ACCOUNT_SID and TWILIO_AUTH_TOKEN from twilio.console
+
+
+
+
+
+
+
+............................................................
+Twilio Verification:
+6DQ66w_uUEN0aNyzaGeNm-yz9lXCkzJGezpnU1iD
